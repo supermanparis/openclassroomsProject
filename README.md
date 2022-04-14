@@ -1,2 +1,2 @@
 # openclassroomsProject
-cours Git Hub openclassrooms
+cours Git Hub openclassrooms.
